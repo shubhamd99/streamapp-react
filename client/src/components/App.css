@@ -1,0 +1,21 @@
+.modal-class {
+	width: 500px;
+	height: 200px;
+	margin: auto;
+	background-color: white;
+	border-radius: 8px;
+	padding: 20px;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.modal-class .header, .content {
+	margin-bottom: 17px;
+}
+
+.modal-class .button-group > button {
+	margin: 5px;
+}
+
